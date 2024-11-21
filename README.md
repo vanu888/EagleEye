@@ -48,7 +48,7 @@ EagleEye is a simple web browser application built using PyQt5, allowing users t
   
 ## License
 
-This template is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Support
 
